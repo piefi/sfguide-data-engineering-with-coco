@@ -3,9 +3,9 @@ coco_de_guide:
   outputs:
     dev:
       type: snowflake
+      authenticator: externalbrowser
       account: "<YOUR_ACCOUNT>"
       user: "<YOUR_USERNAME>"
-      password: "<YOUR_PASSWORD>"
       role: "<YOUR_ROLE>"
       database: DEMO_DB
       warehouse: DEMO_WH
