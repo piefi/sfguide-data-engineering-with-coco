@@ -1,0 +1,8 @@
+# dbt
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+
+# Credentials
+dbt/profiles.yml
+.env
