@@ -2,6 +2,7 @@
 dbt/target/
 dbt/dbt_packages/
 dbt/logs/
+dbt/.user.yml
 
 # Credentials
 dbt/profiles.yml
