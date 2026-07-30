@@ -3,10 +3,10 @@ coco_de_guide:
   outputs:
     dev:
       type: snowflake
-      authenticator: externalbrowser
       account: "<YOUR_ACCOUNT>"
       user: "<YOUR_USERNAME>"
-      role: "<YOUR_ROLE>"
+      password: "<YOUR_PERSONAL_ACCESS_TOKEN>"
+      role: DEMO_ROLE
       database: DEMO_DB
       warehouse: DEMO_WH
       schema: TPCH_TRANSFORMED
