@@ -7,3 +7,6 @@ dbt/.user.yml
 # Credentials
 dbt/profiles.yml
 .env
+
+# Mac files
+.DS_Store
