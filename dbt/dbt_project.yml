@@ -10,4 +10,3 @@ test-paths: ["tests"]
 models:
   coco_de_guide:
     +materialized: table
-    +schema: TPCH_TRANSFORMED
