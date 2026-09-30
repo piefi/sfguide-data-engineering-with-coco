@@ -1,0 +1,16 @@
+==================== 2026-09-30T05:27:46.315779Z | 01a0f0c8-7d7f-7692-82e2-e357b0232ca5 ====================
+05:27:46.322074 [info ]: dbt-fusion 2.0.0-preview.218
+05:27:46.325375 [info ]: Started loading project
+05:27:46.327193 [info ]: Finished loading project [  0.00s]
+05:27:46.328380 [error]: [IoError (dbt1001)]: Cannot open file /Users/9yards/Documents/Snowflake/sfguide-data-engineering-with-coco/dbt/dbt/dbt_project.yml: Failed to open file: /Users/9yards/Documents/Snowflake/sfguide-data-engineering-with-coco/dbt/dbt/dbt_project.yml: No such file or directory (os error 2): No such file or directory (os error 2)
+05:27:46.470196 [info ]: 
+==================== Execution Summary =====================
+Finished 'debug' with 1 error [154ms]
+==================== 2026-09-30T05:35:39.046225Z | 01a0f0cf-b424-7463-8389-63e5360dae38 ====================
+05:35:39.046302 [info ]: dbt-fusion 2.0.0-preview.218
+05:35:39.046391 [info ]: Started loading project
+05:35:39.046437 [info ]: Finished loading project [  0.00s]
+05:35:39.046477 [error]: [IoError (dbt1001)]: Cannot open file /Users/9yards/Documents/Snowflake/sfguide-data-engineering-with-coco/dbt/dbt/dbt_project.yml: Failed to open file: /Users/9yards/Documents/Snowflake/sfguide-data-engineering-with-coco/dbt/dbt/dbt_project.yml: No such file or directory (os error 2): No such file or directory (os error 2)
+05:35:39.182011 [info ]: 
+==================== Execution Summary =====================
+Finished 'build' with 1 error [135ms]

@@ -1,0 +1,1 @@
+This plugin bundles skills, subagents, and hooks for the CoCo Data Engineering quickstart project. It provides a new-dbt-model skill for scaffolding dbt models that follow the project's conventions, along with extension points for custom agents and lifecycle hooks.
